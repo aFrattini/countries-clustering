@@ -38,3 +38,9 @@ El conjunto de datos incluye información de **166 países**, con variables clav
 - **PCA** redujo las variables a 6 componentes que explican el 97% de la varianza, pero no mejoró ni la precisión ni el tiempo de ejecución.
 - Entre los países más necesitados destacan: Afghanistan, Benin, Burkina Faso, Burundi, Cameroon, Chad, Congo, Gambia, Guinea, Haiti, Madagascar, Malawi, Mali, Mozambique, Niger, Sierra Leone, Tanzania, Togo, Uganda y Zambia.
 
+
+---
+
+## 📎 Notebook
+
+👉 [Ver notebook en GitHub](https://github.com/aFrattini/countries-clustering/blob/main/countries-clustering.ipynb)
